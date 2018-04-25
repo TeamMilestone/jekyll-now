@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+재고 / 물류 / 생산 / 인사 / 발주  
+소프트웨어 제작 전문 개발팀  
+팀 마일스톤  
 
-### More Information
+### 연락처
 
-A place to include any other types of information that you'd like to include about yourself.
+아래 연락처로 상담 가능합니다.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+이원섭  
+[wonsup@team-milestone.com](mailto:wonsup@team-milestone.com)
